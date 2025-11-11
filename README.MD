@@ -1,70 +1,73 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+    src="./assets/cover.jpg"
+    width="300"
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+<p align="center">
+    📘 Preview do eBook
+</p>
 
+<div align="center">
+    <img src="./assets/capa.png" width="600"/>
+</div>
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+# 🤖 Projeto eBook: Código Neural — Decifrando a Mente das Máquinas  
+> Um guia introdutório e visual sobre **Modelos de Machine Learning**, criado com o apoio da Inteligência Artificial.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+> ℹ️ **NOTA:** Este eBook foi desenvolvido durante o **Bootcamp Universia - Fundamentos de IA Generativa**, ministrado por **Felipe Aguiar**, com o objetivo de demonstrar como é possível criar conteúdo educacional completo utilizando ferramentas de IA — da escrita à diagramação — em poucas horas.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+---
 
-## 💻 Tecnologias utilizadas no projeto
+## 💡 Sobre o projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+O **Código Neural — Decifrando a Mente das Máquinas** é um eBook interativo voltado a quem deseja compreender os fundamentos dos **modelos de Machine Learning** de forma simples, prática e acessível.  
 
-## 🧠 Prompts
+Cada capítulo apresenta um conceito essencial de aprendizado de máquina, acompanhado de exemplos em **Python** e analogias do dia a dia, tornando o aprendizado mais leve e intuitivo.
 
+O projeto também busca inspirar estudantes e criadores a explorar o potencial da IA como ferramenta de **criação de conteúdo técnico e educacional**.
 
-ChatGPT：
+---
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+## 💻 Tecnologias e ferramentas utilizadas
 
+- [ChatGPT (OpenAI)](https://chat.openai.com/) — geração e revisão de texto, exemplos de código e estrutura do eBook  
+- [Canva](https://www.canva.com/) — diagramação e design visual do eBook  
+- [MidJourney](https://www.midjourney.com/app/) — criação da arte da capa e ilustrações conceituais  
+- [Google Docs](https://docs.google.com/) — organização dos capítulos e revisão final  
 
-Midjourney：
+---
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+## ✨ Como foi feito
 
-## ✨ Features
+1. 🧠 **Pesquisa e estruturação:** tópicos e capítulos definidos com auxílio do ChatGPT  
+2. 📝 **Geração de conteúdo:** textos, analogias e exemplos em Python criados com IA  
+3. 🎨 **Design e diagramação:** layout do eBook montado no Canva com imagens geradas por IA  
+4. 📚 **Revisão e finalização:** ajustes de formatação e coesão textual antes da publicação  
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+---
 
-## 📚 Materiais
+## 📘 Conteúdo do eBook
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Capítulo 1: Introdução ao Machine Learning    
+- Capítulo 2: Árvores de Decisão  
+- Capítulo 3: KNN — O vizinho mais próximo  
+- Capítulo 4: Naive Bayes e Probabilidades  
+- Conclusão + Sugestões e Agradecimentos  
 
-## 🛠️ Instruções de execução
+---
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+## 🛠️ Como reproduzir o processo
 
-## 👨‍💻 Expert
+1. 🤖 Gere o conteúdo base com **ChatGPT**, definindo capítulos e linguagem desejada  
+2. 🎨 Crie as **imagens e capa** no **MidJourney ou Meta.IA**  
+3. 🧩 Monte o layout do eBook no **Canva** (ou Google Slides)  
+4. 📤 Exporte o resultado em PDF e compartilhe seu projeto  
+
+---
+
+## 👨‍🏫 Curso ministrado por
 
 <p>
     <img 
@@ -73,20 +76,22 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <p>&nbsp;&nbsp;Felipe Aguiar<br>
+    &nbsp;&nbsp;
+    <a href="https://github.com/felipeAguiarCode">GitHub</a>
+    &nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/felipe-exe">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a>
+    </p>
 </p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 💜 Projeto desenvolvido por
+
+**[Ian Nobres Azevedo](https://github.com/Iannobres)**  
+Estudante de Inteligência Artificial e entusiasta de tecnologia, dados e inovação.  
+Este eBook foi criado como parte do **Bootcamp Universia - Fundamentos de IA Generativa**, com o objetivo de demonstrar como a **IA pode ser uma aliada na criação de conteúdo educacional**.
+
+🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/ian-nobres)
