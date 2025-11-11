@@ -1,11 +1,4 @@
 <p align="center">
-<img 
-    src="./assets/cover.jpg"
-    width="300"
-/>
-</p>
-
-<p align="center">
     📘 Preview do eBook
 </p>
 
